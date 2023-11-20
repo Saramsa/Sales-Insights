@@ -2,6 +2,7 @@
 
 ## LINKS:
 Live Dashboard : [Sale Insights Project](https://app.powerbi.com/groups/me/apps/d13745b9-af44-41c4-9690-9299c6fcdb1d/reports/b2380a28-f497-4f62-841e-2d41d04f9475/ReportSection14ec54f6dcd6304440b9?experience=power-bi)
+
 ## Problem Statement
 
 Atliq Hardware, a prominent supplier of computer hardware and peripherals in India, is grappling with sales tracking challenges due to the rapid expansion of the market and scattered data across multiple Excel files. In response, the company has initiated the recruitment of a dedicated team of data analysts to centralize and analyze the data, with the goal of creating an efficient dashboard for comprehensive sales analysis and informed decision-making.
